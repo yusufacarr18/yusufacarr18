@@ -1,11 +1,11 @@
 
 
-                                          A Software Developer from Istanbul/Turkey
-                                       ----------------------------------------------
+                                        A Software Developer from Istanbul/Turkey
+                                       -------------------------------------------
 
 
 - 👋 Hi, I’m @yusufacarr18
-- 👀 I’m interested in Software
+- 👀 I’m interested in Java, Python, C++, C# , Dart & Flutter 
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yusufacarr18@gmail.com
