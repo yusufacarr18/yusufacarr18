@@ -1,3 +1,9 @@
+
+
+                                          A Software Developer from Istanbul/Turkey
+                                       ----------------------------------------------
+
+
 - 👋 Hi, I’m @yusufacarr18
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Java and C#
