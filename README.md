@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @yusufacarr18
 - 👀 I’m interested in Apex, Java, C++, C# , JavaScript, HTML, CSS
-- 🌱 I’m currently using and learning Apex, JavaScript, LWC
+- 🌱 I’m currently using and specializing Apex, JavaScript, LWC
 - 📫 How to reach me yusufacarr18@gmail.com
 
 <!---
