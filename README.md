@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m @yusufacarr18
-- 👀 I’m interested in Java, Python, C++, C# , Dart & Flutter 
-- 🌱 I’m currently learning Java and C#
+- 👀 I’m interested in Apex, Java, C++, C# , JavaScript, HTML, CSS
+- 🌱 I’m currently using and learning Apex, JavaScript, HTML, CSS
 - 📫 How to reach me yusufacarr18@gmail.com
 
 <!---
